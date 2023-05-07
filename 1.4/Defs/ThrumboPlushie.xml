@@ -15,10 +15,10 @@
         </weaponTags>
         <costStuffCount>40</costStuffCount>
         <statBases>
-            <WorkToMake>3000</WorkToMake>
+            <WorkToMake>3200</WorkToMake>
             <Mass>0.1</Mass>
             <Beauty>1</Beauty>
-            <SellPriceFactor>1.1</SellPriceFactor>
+            <SellPriceFactor>1.2</SellPriceFactor>
         </statBases>
         <equippedStatOffsets MayRequire="Ludeon.RimWorld.Biotech">
             <LearningRateFactor>0.2</LearningRateFactor>
