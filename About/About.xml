@@ -2,8 +2,10 @@
 <ModMetaData>
     <name>Thrumbo Plushie</name>
     <author>Arquebus, Woffleman</author>
+    <modIconPath IgnoreIfNoMatchingField="True">UI/ThrumboPlushieIcon</modIconPath>
     <supportedVersions>
         <li>1.4</li>
+        <li>1.5</li>
     </supportedVersions>
     <packageId>Arquebus.ThrumboPlushie</packageId>
     <description>A mod that allows your colonists to also enjoy a sweet plush thrumbo.</description>
